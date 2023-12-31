@@ -19,4 +19,4 @@ This portfolio was built on top of [Tailwind Next JS Starter Blog](https://githu
 
 ## Demonstration
 
-<video src="https://user-images.githubusercontent.com/29705703/163712138-4ad03388-0bba-4797-b493-383726e4daaa.mp4" autoplay />
+<video src=".mp4" autoplay />
