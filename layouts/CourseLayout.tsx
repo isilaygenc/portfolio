@@ -1,1 +1,1 @@
-import CourseLayout from './CourseLayout.tsx';
+import CourseLayout from './CourseLayout';
